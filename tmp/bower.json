@@ -1,0 +1,17 @@
+{
+  "name": "directives",
+  "version": "1",
+  "authors": [
+    "Christo Crampton <info@38.co.za>"
+  ],
+  "description": "test",
+  "main": "app.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
